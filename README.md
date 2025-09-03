@@ -57,9 +57,6 @@ L’objectif : **montrer une architecture complète de bout en bout** qu’on re
   az login
 
 
-## Architecture
-![Architecture](architecture.png)
-
 ## Structure
 - main.tf : ressources principales
 - variables.tf : variables
